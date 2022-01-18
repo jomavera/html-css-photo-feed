@@ -46,10 +46,8 @@ body {
     float:right;
 }
 
-.post-picture {
-    margin: 0 auto;
-    width: 100%;
-    text-align: center;
+.post-picture img {
+    width:100%;
 }
 
 .post-description {
